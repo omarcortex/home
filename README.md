@@ -1,2 +1,2 @@
 # home
-This is my home folder on GitHub at GeneDx
+This is my home folder on GitHub at work.
