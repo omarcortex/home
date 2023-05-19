@@ -1,2 +1,2 @@
 # home
-This is my home folder on GitHub at work.
+This is my home folder on GitHub for work purposes.
